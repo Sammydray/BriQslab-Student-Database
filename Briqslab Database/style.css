@@ -1,6 +1,8 @@
 body {
     font-family: Arial, sans-serif;
     background-image: url('background.png');
+    background-repeat: no-repeat;
+    height: 100vh fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
